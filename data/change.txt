@@ -1,0 +1,29 @@
+Fix NUL file-corruption bug after Windows shutdown brutally.
+Fix inaccurate URL detection by replacing a new URL parser.
+Fix RegEx look behind operations and \A and and \b and \z.
+Split functionList.xml into multifile in "functionList" Folder.
+Make tray icon work again in administrator mode.
+Fix dialogs & floating dockable panels don't minimize to system tray issue.
+Add alternative icon set for tab bar.
+Add ability to remove any duplicate lines in a document, keeping the first occurrence.
+Fix incorrect icon for monitoring status in Document list panel and in Document switcher.
+Add copy marked text & styled text to clipboard commands to menu.
+Fix find-all-open-docs not finding all matches in ANSI files.
+Display long lines better in Find-result panel by increasing its max length to 2048.
+Fix double clicking on find result line not working.
+Fix Find-result rclick-Copy incomplete data bug.
+Add case insensitive lines sorting.
+Add "Open Containing Folder as Workspace" command in main menu and in context menu of tabs.
+Enhance Sel info of status bar.
+Add new option for save type of normal text files in Save dialog.
+Fix file path truncated issue in save confirmation dialog.
+Fix auto-Indent not working for PowerShell.
+Allow setting of background color for bookmark margin.
+Fix smart-highlighting not applying to cloned view.
+Fix smart highlight issue related to EOF.
+Fix closing file in 2nd view not removed from Doc Switcher.
+Add Delete keystroke to remove selected root from Folder as Workspace.
+Add TAB keystroke in Function List to switch between search field and list.
+Add ESC keystroke in Function List to switch to edit window.
+Add ESC keystroke to close Search Results Window.
+Fix data-prefixed attributes are not recognized in HTML.
