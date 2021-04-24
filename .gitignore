@@ -21,6 +21,7 @@
 [Dd]ebug*/ 
 *.lib 
 *.sbr 
+test
 Thumbs.db 
 [Ll]ib/ 
 [Rr]elease*/ 
